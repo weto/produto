@@ -1,6 +1,6 @@
 var i18n = require('./config/i18n')();
 var app = require('./app');
-var port = 3000;
+var port = process.env.PORT || 3000;
 
 const produtos = require('./produtos.json');
 
