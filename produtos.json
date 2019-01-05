@@ -1,10 +1,30 @@
 [
     {
         "id": 1,
-        "idPedido": 1,
-        "descricao": "José realizou o pedido nº 100 aprovado no dia 30/09/2018 às 19:00 no valor de R$ 1.000.000,00",
-        "dataTransacao": "date-time",
-        "valorAutorizado": "1.000.000,00",
-        "estado": "autorizado"
+        "nome": "Tênis Adidas Skyfreeze 2 34",
+        "tamanho": 34,
+        "descricao": "O Skyfreeze 2 34 é um tênis de corrida masculino da Adidas que oferece amortecimento eficiente para te ajudar a chegar mais longe. Garante excelente absorção de impactos",
+        "foto": "//static.netshoes.com.br/produtos/tenis-adidas-skyfreeze-2-masculino/34/COL-1544-034/COL-1544-034_zoom1.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Tênis Adidas Skyfreeze 2 36",
+        "tamanho": 36,
+        "descricao": "O Skyfreeze 2 36 é um tênis de corrida masculino da Adidas que oferece amortecimento eficiente para te ajudar a chegar mais longe. Garante excelente absorção de impactos",
+        "foto": "//static.netshoes.com.br/produtos/tenis-adidas-skyfreeze-2-masculino/34/COL-1544-034/COL-1544-034_zoom1.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Tênis Adidas Skyfreeze 2 38",
+        "tamanho": 38,
+        "descricao": "O Skyfreeze 2 38 é um tênis de corrida masculino da Adidas que oferece amortecimento eficiente para te ajudar a chegar mais longe. Garante excelente absorção de impactos",
+        "foto": "//static.netshoes.com.br/produtos/tenis-adidas-skyfreeze-2-masculino/34/COL-1544-034/COL-1544-034_zoom1.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Tênis Adidas Skyfreeze 2 40",
+        "tamanho": 40,
+        "descricao": "O Skyfreeze 2 40 é um tênis de corrida masculino da Adidas que oferece amortecimento eficiente para te ajudar a chegar mais longe. Garante excelente absorção de impactos",
+        "foto": "//static.netshoes.com.br/produtos/tenis-adidas-skyfreeze-2-masculino/34/COL-1544-034/COL-1544-034_zoom1.jpg"
     }
 ]
