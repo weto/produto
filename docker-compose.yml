@@ -1,8 +1,8 @@
 version: "3"
 
 services:
-  app:
+  produto:
     build: .
+    image: micro_servico_produto:v1
     ports:
       - "3000:3000"
-    command: npm run start

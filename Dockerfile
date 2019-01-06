@@ -1,10 +1,12 @@
 FROM node:10-alpine
 
-RUN mkdir -p /src/app
+RUN apk add --no-cache git
 
-WORKDIR /src/app
+RUN apk add --no-cache openssh
 
-COPY package.json /src/app/package.json
+RUN git clone https://github.com/weto/produto.git
+
+WORKDIR /produto
 
 RUN npm install
 
