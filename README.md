@@ -1,5 +1,5 @@
 # Micro API de Produto
-Instalação: Vá para https://github.com/weto/produto e faça o download aa versão recente.
+Instalação: Vá para https://github.com/weto/produto e faça o download da versão recente.
 
 Dependências: Docker e Docker Compose
 
